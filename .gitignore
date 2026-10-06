@@ -25,3 +25,6 @@ backend/backups/
 bigdata-pipeline/data/
 bigdata-pipeline/output/
 FIX_ALL_BIGDATA_v2.ps1
+
+!backend/analytics_data/
+!backend/analytics_data/*.csv

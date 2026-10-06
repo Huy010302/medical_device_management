@@ -1,0 +1,5 @@
+﻿benchmark_version,benchmark_scope,requested_events,actual_events,repetitions,warmup_events,median_materialize_seconds,median_analytics_seconds,median_total_seconds,median_throughput_events_per_second,min_total_seconds,max_total_seconds,trial_total_seconds,spark_version
+2,analytics_only_cached_input,50000,50000,3,10000,0.5913,0.8772,1.4561,34337.65,1.3860,1.6439,1.6439;1.3860;1.4561,3.5.6
+2,analytics_only_cached_input,100000,100000,3,10000,0.6492,0.7415,1.3793,72499.21,1.2592,1.7354,1.7354;1.3793;1.2592,3.5.6
+2,analytics_only_cached_input,250000,250000,3,10000,0.9384,1.2113,2.1370,116988.22,2.1204,2.1497,2.1204;2.1497;2.1370,3.5.6
+2,analytics_only_cached_input,500000,500000,3,10000,1.5096,2.1758,3.6854,135669.08,3.6208,3.7170,3.7170;3.6854;3.6208,3.5.6

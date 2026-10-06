@@ -1,0 +1,2 @@
+﻿processed_at,total_events,distinct_devices,distinct_event_types,first_event,last_event,spark_version,processing_seconds,input_file_bytes,analytical_datasets,synthetic_events,synthetic_ratio,dataset_profile
+2026-10-05T14:04:58.322408+00:00,5000003,10002,7,2022-10-01T15:15:21.614880,2026-09-30T20:48:52.717596,3.5.6,216.412,2151891757,21,5000000,0.999999,synthetic_demo
