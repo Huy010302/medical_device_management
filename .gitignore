@@ -24,3 +24,4 @@ backend/backups/
 *.dump
 bigdata-pipeline/data/
 bigdata-pipeline/output/
+FIX_ALL_BIGDATA_v2.ps1
