@@ -1,0 +1,19 @@
+
+[
+ {
+  "_id":"EVT000001",
+  "device_id":"DEV00001",
+  "event_type":"MAINTENANCE_COMPLETED",
+  "metadata":{
+    "cost":5000000
+  }
+ },
+ {
+  "_id":"EVT000002",
+  "device_id":"DEV00002",
+  "event_type":"REPAIR_COMPLETED",
+  "metadata":{
+    "cost":8000000
+  }
+ }
+]

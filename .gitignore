@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Backup & file tạm
+*.bak
+*.before_fix_all_v2.bak
+backend/backups/
+
+# Dữ liệu lớn
+*.csv
+*.sql.gz
+*.dump
+bigdata-pipeline/data/
+bigdata-pipeline/output/

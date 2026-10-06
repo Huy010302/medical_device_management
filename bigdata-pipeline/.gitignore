@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+input/*.jsonl
+dashboard/data/generated/*.csv
+spark-warehouse/
